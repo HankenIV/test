@@ -1,2 +1,2 @@
 # test
-Saugokitės! Vilkotakis sako: „Sveiki“.
+Saugokitės! Vilktakis sako: „Sveiki“.
